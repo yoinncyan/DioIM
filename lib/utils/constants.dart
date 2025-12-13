@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // API 配置
 class ApiConstants {
-  static const String baseUrl = 'http://localhost:8082';
+  static const String baseUrl = 'http://185.241.40.126:8082';
   static const String loginEndpoint = '/user/findUser';
   static const String registerEndpoint = '/user/create';
 }
